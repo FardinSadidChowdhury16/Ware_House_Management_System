@@ -101,3 +101,4 @@ A full-stack, enterprise-ready Warehouse Management System (WMS) featuring real-
 
 ## 📄 License
 This project is private and proprietary.
+
